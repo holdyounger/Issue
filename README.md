@@ -47,12 +47,58 @@
 
 <img src="images/README/memreduct.png" alt="img" style="zoom:100%;" />
 
+## Rust 开源学习教程 
+
+[sunface/rust-course: “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book](https://github.com/sunface/rust-course)
+
+![img](README/banner.jpg)
+
+在这里你可以系统的学习 Rust 语法的特性。
+
+
+
+## [SamyPesse/How-to-Make-a-Computer-Operating-System: How to Make a Computer Operating System in C++](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
+
+一个纯C代码写的教程。跟着教程一步一步来就足以覆盖你工作学习的全部内容了。
+
+![Screen](README/preview.png)
+
 ## StarList
 
 1. [Windbg](https://github.com/stars/holdyounger/lists/windbg)：Windows Dbg 调试分享以及扩展插件的收录
 2. [Windows](https://github.com/stars/holdyounger/lists/windows)：截止目前为止，分类中最多项目的 List。包括但不限于 Windows 工具、Hook、文章等等。
 3. [POC](https://github.com/stars/holdyounger/lists/poc)：收集的漏洞相关 POC
 4. [Windows Tools](https://github.com/stars/holdyounger/lists/windows-tools)：此工具非彼工具，除了一些 Windows 开发使用中可能会用到的工具，也有开发中需要用到的一些 开源静态库 项目，如 libssh2、libzip 等。
+
+
+
+# 🐥社区推荐
+
+深信服社区
+https://bbs.sangfor.com.cn/plugin.php?id=info:index#?orderby=dateline&type=index&page=1&init
+
+Tide 安全团队
+https://www.tidesec.com/
+
+技术文章 - 先知社区
+https://xz.aliyun.com/tab/1
+
+安全脉搏 | 分享技术，悦享品质
+https://www.secpulse.com/
+
+Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/Main_Page
+
+知道创宇 Seebug 漏洞平台 - 洞悉漏洞，让你掌握前沿漏洞情报！
+https://www.seebug.org/
+
+Intezer - Autonomous Security Operations
+https://intezer.com/
+
+CodeMachine - Home
+https://codemachine.com/index.html?__im-FarDSYvs=4356232983259770696
+
+
 
 # 🚅 参赛经历
 

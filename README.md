@@ -344,6 +344,12 @@ https://codemachine.com/index.html?__im-FarDSYvs=4356232983259770696
 
 # :computer: Windows
 
+## 工具推荐
+
+- [diversenok/TokenUniverse: An advanced tool for working with access tokens and Windows security policy.](https://github.com/diversenok/TokenUniverse)
+  对于研究 Windows 安全机制非常有用。主要用于实验和研究 Windows 安全机智的高级工具。可以创建、查看、模拟和修改访问令牌、生成进程、管理 Local Security Authority、检查可用访问和修改许多类型对象的安全性。
+  ![Information Window](README/180661335-bf436a31-5364-4bd3-b353-95c63da8dbc9.png)
+
 
 
 ## 虚拟网卡专栏
